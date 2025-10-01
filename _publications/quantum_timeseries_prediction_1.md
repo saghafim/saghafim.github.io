@@ -1,15 +1,12 @@
 ---
-title: "FT-Boosted SV: Towards Noise Robust Speaker Verification for English Speaking Classroom Environments"
+title: "Predictive Time-Series Analysis of Single-Qubit Quantum Circuit Outcomes for a Superconducting Quantum Computer: Forecasting Error Patterns"
 collection: publications
-permalink: /publications/ftboosted_02_21_2025
-excerpt: "In this study, we explored speaker verification in real Englishspeaking classrooms, where both children and adults are
-present. We demonstrated the effectiveness of finetuning pretrained models using a domain-specific, augmented dataset for
-speaker verification tasks in noisy and challenging environments, such as classrooms. Our results show that this approach
-significantly improves the performance of both the ECAPATDNN and x-vector models for children’s speech and classroom environments. We also found that the ECAPA-TDNN (FT-Boosted) model exhibited superior robustness, especially in handling variations in microphone configurations and classroom noise. Additionally, we propose that the optimal development set for finetuning speaker verification models is a combination of the MyST, CSLU, and CMU datasets, due to their diverse age range and speech styles. This diverse combination enables speaker verification models to generalize more effectively, improving their performance in real-world educational settings."
-date: 2025-06-15
-venue: 'Proc. in Interspeech 2025'
-short: 'Interspeech 2025'
-paperurl: 'https://www.isca-archive.org/interspeech_2025/tabatabaee25_interspeech.pdf'
+permalink: /publications/quantum_timeseries_prediction_1
+excerpt: In this work, we analyze and predict the output patterns of a single qubit quantum circuit by treating the results of repeated executions as a time series. Specifically, we collect measurement data from multiple runs of a quantum circuit and construct a time series from these observations. By training a predictive model, we aim to forecast future outcomes, providing insights into the error behavior of the quantum circuit. Additionally, we analyze time series data from two different circuits executed on the same qubit to investigate potential relationships and assess whether one dataset can be used to predict the other. Our findings reveal key characteristics of quantum circuit outputs, including stationarity, autocorrelation, seasonality, trends, linearity, and causality. The analysis highlights intriguing behaviors within the dataset. Furthermore, we evaluate multiple time series prediction methods and determine that XGBoost (Extreme Gradient Boosting) outperforms other approaches, demonstrating its effectiveness in accurately predicting quantum computing outputs in subsequent runs."
+date: 2025-02-27
+venue: 'IEEE ACCESS'
+short: 'IEEE ACCESS'
+paperurl: 'https://inspirehep.net/files/8cf076ce2dd33d1ba5187699a6358261'
 teaser: '../images/ft.jpeg'
 authors:  <b>Saba Tabatabaee</b>, Jing Liu, Carol Espy-Wilson"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
