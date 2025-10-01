@@ -8,28 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-My name is Saba Tabatabaee. I am a Ph.D. student in Electrical and Computer Engineering at [University of Maryland, College Park](https://umd.edu/) and a member of [Speech Communication](https://scl.umd.edu/) group. My research advisor is Prof. [Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson).
+My name is Mohammadreza Saghafi. I am a Ph.D. candidate in Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/) and a member of [Power and Energy Center]([https://scl.umd.edu/](https://ece.vt.edu/research/centers/energy.html)). My research advisor is Prof. [Lamine Mili](https://ece.vt.edu/people/profile/mili.html).
 
-My research focuses on **speech and audio processing**, with an emphasis on improving the speech inversion system using neural networks and self-supervised speech models under complex and real-world conditions. In parallel, I investigate integrating **speech inversion systems** with **speech enhancement** and **automatic speech recognition** pipelines, aiming to enhance recognition accuracy and speech quality in challenging acoustic conditions. 
+My research focuses on **Quantum Computing** and **Power Systems Studies**.
+My research focuses on predictive analysis of quantum systems. I work on using mathematical and statistical tools, like time-series forecasting and adaptive filtering, to model and reduce noise in quantum circuits. I’m also interested in observability analysis and optimization methods, especially with gPC expansions, to improve state estimation and system performance. Alongside my quantum computing work, I’ve been exploring power system planning and hybrid energy storage optimization, looking at ways to handle uncertainty and improve efficiency in complex systems.
 
-Please check list of publications [here](https://scholar.google.com/citations?user=d7tPM7MAAAAJ&hl=en).
+I also have a strong interest in power system studies, particularly in areas like transmission planning, reliability assessment, and microgrid design. I enjoy looking at how large-scale systems can be planned and operated more efficiently, while also making them more resilient to uncertainties. My work in this space often involves optimization and modeling techniques to evaluate system reliability, study grid integration of renewable resources, and explore how microgrids can support both local communities and larger networks.
 
-**I am currently on the job market and actively seeking internships and full-time opportunities. If my research aligns with your interests, I would be glad to connect.**
+Please check list of publications [here](https://scholar.google.com/citations?user=qrg3Bn8AAAAJ&hl=en).
+
+**I am currently on the job market and actively seeking full-time opportunities. If my research aligns with your interests, I would be glad to connect.**
 
 Research Interest
 ======
-- Speech and Audio processing
-- Speech Recognition
-- Speech Enhancement
-- Speech Inversion
+- Power Systems Modeling
+- Optimization Methods
+- Quantum Error Mitigation
+- Resilience Enhancement
+- Power System Planning
+- Reliability Assessment
+- Microgrid Studies and Renewable Energy Integration
+- State Estimation
+- Stochastic Modeling of Energy Systems
 - Applied AI/ML
 
 Education
 ======
- - Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, 2022 - 2027 (Expected)
- - M.S. in Electrical and Computer Engineering, University of Tehran, 2017 - 2021
- - B.Eng. in Electrical and Computer Engineering, Islamic Azad University, 2012 - 2016
-
+ - Ph.D. in Electrical and Computer Engineering, Virginia Tech, 2021 - 2025 (Expected)
+ - M.Sc. in Electrical and Computer Engineering, University of Tehran, 2017 - 2020
+ - B.SC. in Electrical and Computer Engineering, University of Tehran, 2012 - 2017
+<!--
 News
 ======
 
@@ -64,7 +72,7 @@ td, th {
   <tr><td><b>Aug 2022:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
 </table>
 </div>
-
+-->
 
 <br>
 
