@@ -19,7 +19,7 @@ authors:  <b>Mohammadreza Saghafi</b>, Lamine Mili"
 
 | Paper                                         
 |---------------------------------------------------------------------------------------------------------|
-| [**Speech Inversion by Incorporating Nasality**](https://arxiv.org/pdf/2506.09231) |
+| [**Time Series Prediction of Quantum Circuit**](https://inspirehep.net/files/8cf076ce2dd33d1ba5187699a6358261) |
 
 <br>
 
