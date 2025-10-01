@@ -37,7 +37,7 @@ Education
  - Ph.D. in Electrical and Computer Engineering, Virginia Tech, 2021 - 2025 (Expected)
  - M.Sc. in Electrical and Computer Engineering, University of Tehran, 2017 - 2020
  - B.SC. in Electrical and Computer Engineering, University of Tehran, 2012 - 2017
-<!--
+/*
 News
 ======
 
@@ -72,7 +72,7 @@ td, th {
   <tr><td><b>Aug 2022:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
 </table>
 </div>
--->
+*/
 
 <br>
 
