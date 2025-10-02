@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Mohammadreza Saghafi"
   avatar           : "havij.jpeg"
-  bio              : "Ph.D Student at Virginia Tech |<br>  <br><br>email: saghafim [at] vt.edu"
+  bio              : "Ph.D Candidate at Virginia Tech |<br>  <br><br>email: saghafim [at] vt.edu"
   location         : "College Park, MD"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qrg3Bn8AAAAJ&hl=en"
-  email            : "saghafim@umd.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "saghafim@vt.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Mohammadreza-Saghafi"
   uri              : 
   bitbucket        :
   codepen          :
