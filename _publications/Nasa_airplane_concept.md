@@ -7,35 +7,38 @@ date: 2025-02-27
 venue: 'IEEE ACCESS'
 short: 'IEEE ACCESS'
 paperurl: 'https://inspirehep.net/files/8cf076ce2dd33d1ba5187699a6358261'
-teaser: '../images/quan.jpeg'
+teaser: '../images/Nasa.jpeg'
 authors:  <b>Mohammadreza Saghafi</b>, Lamine Mili"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 redirect_from: 
-  - /ft
+  - /Nasa
 ---
 
 <p style="text-align:center;">
-<img src="../images/quan.jpeg" width="800">
+<img src="../images/Nasa.jpeg" width="800">
 </p>
 
 ## Abstract
-<div style="text-align: justify"> Quantum computing promises a paradigm shift in computational power. However, a major challenge is mitigating the inherent noise and errors in quantum circuits. As quantum computers operate, their fragile qubits are highly susceptible to environmental disturbances, leading to errors that affect the outcomes of repeated circuit executions. Understanding and predicting these errors is crucial for improving the accuracy and reliability of quantum computing systems. In this work, we analyze and predict the output patterns of a single qubit quantum circuit by treating the results of repeated executions as a time series. Specifically, we collect measurement data from multiple runs of a quantum circuit and construct a time series from these observations. By training a predictive model, we aim to forecast future outcomes, providing insights into the error behavior of the quantum circuit. Additionally, we analyze time series data from two different circuits executed on the same qubit to investigate potential relationships and assess whether one dataset can be used to predict the other. Our findings reveal key characteristics of quantum circuit outputs, including stationarity, autocorrelation, seasonality, trends, linearity, and causality. The analysis highlights intriguing behaviors within the dataset. Furthermore, we evaluate multiple time series prediction methods and determine that XGBoost (Extreme Gradient Boosting) outperforms other approaches, demonstrating its effectiveness in accurately predicting quantum computing outputs in subsequent runs.</div>
+<div style="text-align: justify"> In this article, turboelectric NASA N3-X aircraft is fully electrified for the first time; engines are removed and the all-electric NASA N3-X aircraft electric power system (EPS) is introduced, supplied by four electrochemical energy units (EEUs), including batteries, fuel cells, and supercapacitors. In this regard, three medium-voltage direct current (MVdc), ±5 kVdc, bipolar EPS architectures are proposed for the aircraft and discussed and analyzed in detail by a performing power flow (PF) analysis. The proposed architectures are also considered as three-phase ac, 10 kVac, EPSs and discussed and analyzed in detail for comparison. To perform the PF analysis for the proposed MVdc EPSs, two PF solvers for dc networks under constant power generations and loads are also modified and developed. Potential cable conductors are selected and hints are provided to choose final conductors; to assess the performance of selected conductors, dimensions of the aircraft are estimated and cable parameters are calculated based on the presented dimensions. The proposed EPS architectures meet power system planning criteria under normal condition as well as all n −1 contingencies. This article aims to assess newly designed EPSs and, therefore, assumptions are made about EEUs and propulsion motors to the extent whereby PF analysis is affected.</div>
 <br>
 
 | Paper                                         
 |---------------------------------------------------------------------------------------------------------|
-| [**Quantum Time series**](https://ieeexplore.ieee.org/abstract/document/10906565) |
+| [**All-Electric NASA N3-X Aircraft**](https://ieeexplore.ieee.org/abstract/document/9730878) |
 
 <br>
 
 Please cite our work if you found it useful,
 
 ```
-@article{saghafi2025predictive,
-  title={Predictive Time-Series Analysis of Quantum Circuit Outcomes: Forecasting Error Patterns},
-  author={Saghafi, Mohammadreza and Mili, Lamine},
-  journal={IEEE Access},
-  year={2025},
-  publisher={IEEE}
-}
+@ARTICLE{9730878,
+  author={Ghassemi, Mona and Barzkar, Ashkan and Saghafi, Mohammadreza},
+  journal={IEEE Transactions on Transportation Electrification}, 
+  title={All-Electric NASA N3-X Aircraft Electric Power Systems}, 
+  year={2022},
+  volume={8},
+  number={4},
+  pages={4091-4104},
+  keywords={Aircraft;Aircraft propulsion;NASA;Voltage control;Transportation;Conductors;Power cables;All-electric aircraft (AEA);electric power system (EPS);medium-voltage direct current (MVdc);power flow (PF) analysis;switchgear architectures},
+  doi={10.1109/TTE.2022.3158186}}
 ```
