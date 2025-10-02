@@ -7,7 +7,7 @@ date: 2025-02-27
 venue: 'IEEE ACCESS'
 short: 'IEEE ACCESS'
 paperurl: 'https://inspirehep.net/files/8cf076ce2dd33d1ba5187699a6358261'
-teaser: '../images/quantum.JPG'
+teaser: '../images/quan.jpeg'
 authors:  <b>Mohammadreza Saghafi</b>, Lamine Mili"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 redirect_from: 
@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/quantum.JPG" width="800">
+<img src="../images/quan.jpeg" width="800">
 </p>
 
 ## Abstract
