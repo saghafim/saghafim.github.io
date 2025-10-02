@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mohammadreza Saghafi. I am a Ph.D. candidate in Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/) and a member of [Power and Energy Center]([https://scl.umd.edu/](https://ece.vt.edu/research/centers/energy.html)). My research advisor is Prof. [Lamine Mili](https://ece.vt.edu/people/profile/mili.html).
+My name is Mohammadreza Saghafi. I am a Ph.D. candidate in Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/) and a member of [Power and Energy Center](https://ece.vt.edu/research/centers/energy.html). My research advisor is Prof. [Lamine Mili](https://ece.vt.edu/people/profile/mili.html).
 
 My research focuses on **Quantum Computing** and **Power Systems Studies**.
 My research focuses on predictive analysis of quantum systems. I work on using mathematical and statistical tools, like time-series forecasting and adaptive filtering, to model and reduce noise in quantum circuits. I’m also interested in observability analysis and optimization methods, especially with gPC expansions, to improve state estimation and system performance. Alongside my quantum computing work, I’ve been exploring power system planning and hybrid energy storage optimization, looking at ways to handle uncertainty and improve efficiency in complex systems.
