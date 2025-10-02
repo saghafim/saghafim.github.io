@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/Drawing.pdf" width="800">
+<img src="../images/quantum.JPG" width="800">
 </p>
 
 ## Abstract
