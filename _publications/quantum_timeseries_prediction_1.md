@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/ft.jpeg" width="800">
+<img src="../images/Drawing.pdf" width="800">
 </p>
 
 ## Abstract
