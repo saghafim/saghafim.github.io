@@ -2,7 +2,7 @@
 title: "All-Electric NASA N3-X Aircraft Electric Power Systems"
 collection: publications
 permalink: /publications/Nasa_airplane_concept
-excerpt: "
+excerpt: "This article introduces a fully electric version of NASA’s N3-X aircraft powered by four electrochemical energy units. It proposes and analyzes three medium-voltage DC and AC power system architectures using modified power flow solvers, evaluates cable conductors based on aircraft dimensions, and confirms the systems meet planning criteria under normal and contingency conditions."
 date: 2025-02-27
 venue: 'IEEE ACCESS'
 short: 'IEEE ACCESS'
