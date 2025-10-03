@@ -10,6 +10,8 @@ author_profile: true
 ---
 
 ## Dynamic Stability Analysis of a Renewable-Integrated Power Grid (2019)
+![EV Charging Infrastructure](/images/Nasa.jpeg){: .align-center}
+
 - Simulated the dynamic behavior of a power grid with high penetration of renewable energy sources (wind/solar).  
 - Analyzed grid stability during disturbances such as faults, sudden load changes, or generator tripping.  
 
